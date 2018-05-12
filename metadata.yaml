@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/940
     wikipedia: http://en.wikipedia.org/wiki/Henry_Drummond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29254#The-Monkey-That-Would-Not-Kill
 gutenberg_issued: '2009-06-27'
 gutenberg_type: Text
 identifiers:
